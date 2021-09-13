@@ -1,0 +1,199 @@
+Edad,Atricion,ViajeTrabajo,PagaDiaria,Departamento,DistanciaCasa,NivelEducacion,CampoEducacion,SatisfaccionConEntorno,Genero,SalarioHora,InvolucracionTrabajo,NivelTrabajo,PuestoTrabajo,SatisfaccionTrabajo,EstadoCivil,IngresosMensuales,MonthlyRate,NumCompaniasTrabajadas,TrabajoFueraDeHora,IncrementoPorcentualSalario,PerformanceTrabajo,SatisfaccionRelacion,AniosTotalesTrabajo,EntrenamientoUltimoAnio,BalanceVidaTrabajo,AniosEnCompania,AniosPuestoActual,AniosDesdeUltimoAscenso,AniosJefeActual
+50,No,Viaje_Frecuente,1115,Investigacion & Desarrollo,1,3,Ciencias,1,Femenino,73,3,5,Director de Investigacion,2,Casado,18172,9755,3,Si,19,3,1,28,1,2,8,3,0,7
+51,No,Poco_Frecuente,684,Investigacion & Desarrollo,6,3,Ciencias,1,Masculino,51,3,5,Director de Investigacion,3,Soltero,19537,6462,7,No,13,3,3,23,5,3,20,18,15,15
+55,No,Poco_Frecuente,692,Investigacion & Desarrollo,14,4,Medicina,3,Masculino,61,4,5,Director de Investigacion,2,Soltero,18722,13339,8,No,11,3,4,36,3,3,24,15,2,15
+38,No,Viaje_Frecuente,216,Manufacturacion,23,3,Ciencias,4,Masculino,44,2,3,Director Manufacturacion,3,Soltero,9526,8787,0,No,21,4,2,10,2,3,9,7,1,8
+29,No,Poco_Frecuente,1389,Manufacturacion,21,4,Ciencias,2,Femenino,51,4,3,Director Manufacturacion,1,Divorciado,9980,10195,1,No,11,3,3,10,1,3,10,9,8,8
+24,No,NoFrecuente,673,Manufacturacion,11,2,Otro,1,Femenino,96,4,2,Director Manufacturacion,3,Divorciado,4011,8232,0,No,18,3,4,5,5,2,4,2,1,3
+37,No,Poco_Frecuente,1115,Manufacturacion,1,4,Ciencias,1,Masculino,51,2,2,Director Manufacturacion,3,Divorciado,5993,2689,1,No,18,3,3,7,2,4,7,5,0,7
+32,No,Poco_Frecuente,427,Manufacturacion,1,3,Medicina,1,Masculino,33,3,2,Director Manufacturacion,4,Casado,6162,10877,1,Si,22,4,2,9,3,3,9,8,7,8
+36,No,Viaje_Frecuente,1195,Manufacturacion,11,3,Ciencias,2,Masculino,95,2,2,Director Manufacturacion,2,Soltero,6499,22656,1,No,13,3,3,6,3,3,6,5,0,3
+31,No,Poco_Frecuente,746,Manufacturacion,8,4,Ciencias,3,Femenino,61,3,2,Director Manufacturacion,4,Soltero,4424,20682,1,No,23,4,4,11,2,3,11,7,1,8
+34,No,Poco_Frecuente,1153,Manufacturacion,1,2,Medicina,1,Masculino,94,3,2,Director Manufacturacion,2,Casado,4325,17736,1,No,15,3,3,5,2,3,5,2,1,3
+56,No,Poco_Frecuente,1400,Manufacturacion,7,3,Ciencias,4,Masculino,49,1,3,Director Manufacturacion,4,Soltero,7260,21698,4,No,11,3,1,37,3,2,6,4,0,2
+41,Si,Poco_Frecuente,1102,Ventas,1,2,Ciencias,2,Femenino,94,3,2,Ejecutivo Ventas,4,Soltero,5993,19479,8,Si,11,3,1,8,0,1,6,4,0,5
+42,No,Poco_Frecuente,691,Ventas,8,4,Marketing,3,Masculino,48,3,2,Ejecutivo Ventas,2,Casado,6825,21173,0,No,11,3,4,10,2,3,9,7,4,2
+33,No,Viaje_Frecuente,1141,Ventas,1,3,Ciencias,3,Femenino,42,4,2,Ejecutivo Ventas,1,Casado,5376,3193,2,No,19,3,1,10,3,3,5,3,1,3
+27,No,Viaje_Frecuente,994,Ventas,8,3,Ciencias,4,Masculino,37,3,3,Ejecutivo Ventas,3,Soltero,8726,2975,1,No,15,3,4,9,0,3,9,8,1,7
+34,No,NoFrecuente,1065,Ventas,23,4,Marketing,2,Masculino,72,3,2,Ejecutivo Ventas,3,Soltero,4568,10034,0,No,20,4,3,10,2,3,9,5,8,7
+46,No,Viaje_Frecuente,1211,Ventas,5,4,Marketing,1,Masculino,98,3,2,Ejecutivo Ventas,4,Soltero,5772,20445,4,Si,21,4,3,14,4,3,9,6,0,8
+44,No,Poco_Frecuente,1488,Ventas,1,5,Marketing,2,Femenino,75,3,2,Ejecutivo Ventas,1,Divorciado,5454,4009,5,Si,21,4,3,9,2,2,4,3,1,3
+26,No,Poco_Frecuente,1443,Ventas,23,3,Marketing,3,Femenino,47,2,2,Ejecutivo Ventas,4,Casado,4157,21436,7,Si,19,3,3,5,2,2,2,2,0,0
+35,No,Viaje_Frecuente,853,Ventas,18,5,Ciencias,2,Masculino,71,3,3,Ejecutivo Ventas,1,Casado,9069,11031,1,No,22,4,4,9,3,2,9,8,1,8
+59,No,Poco_Frecuente,1435,Ventas,25,3,Ciencias,1,Femenino,99,3,3,Ejecutivo Ventas,1,Soltero,7637,2354,7,No,11,3,4,28,3,2,21,16,7,9
+59,No,Viaje_Frecuente,1225,Ventas,1,1,Ciencias,1,Femenino,57,2,2,Ejecutivo Ventas,3,Soltero,5473,24668,7,No,11,3,4,20,2,2,4,3,1,3
+35,No,Poco_Frecuente,776,Ventas,1,4,Marketing,3,Masculino,32,2,2,Ejecutivo Ventas,1,Soltero,4312,23016,0,No,14,3,2,16,2,3,15,13,2,8
+55,No,Poco_Frecuente,111,Ventas,1,2,Ciencias,1,Masculino,70,3,3,Ejecutivo Ventas,4,Casado,10239,18092,3,No,14,3,4,24,4,3,1,0,1,0
+46,Si,Poco_Frecuente,669,Ventas,9,2,Medicina,3,Masculino,64,2,3,Ejecutivo Ventas,4,Soltero,9619,13596,1,No,16,3,4,9,3,3,9,8,4,7
+51,No,Poco_Frecuente,632,Ventas,21,4,Marketing,3,Masculino,71,3,2,Ejecutivo Ventas,4,Soltero,5441,8423,0,Si,22,4,4,11,2,1,10,7,1,0
+30,No,Poco_Frecuente,1334,Ventas,4,2,Medicina,3,Femenino,63,2,2,Ejecutivo Ventas,2,Divorciado,5209,19760,1,Si,12,3,2,11,4,2,11,8,2,7
+32,No,Poco_Frecuente,1093,Ventas,6,4,Medicina,2,Masculino,87,3,2,Ejecutivo Ventas,3,Soltero,5010,24301,1,No,16,3,1,12,0,3,11,8,5,7
+24,No,Poco_Frecuente,1353,Ventas,3,2,Otro,1,Femenino,33,3,2,Ejecutivo Ventas,3,Casado,4999,17519,0,No,21,4,1,4,2,2,3,2,0,2
+28,No,NoFrecuente,120,Ventas,4,3,Medicina,2,Masculino,43,3,2,Ejecutivo Ventas,3,Casado,4221,8863,1,No,15,3,2,5,3,4,5,4,0,4
+58,No,Poco_Frecuente,682,Ventas,10,4,Medicina,4,Masculino,37,3,4,Ejecutivo Ventas,3,Soltero,13872,24409,0,No,13,3,3,38,1,2,37,10,1,8
+25,Si,Poco_Frecuente,240,Ventas,5,3,Marketing,3,Masculino,46,2,2,Ejecutivo Ventas,3,Soltero,5744,26959,1,Si,11,3,4,6,1,3,6,4,0,3
+37,No,Poco_Frecuente,1189,Ventas,3,3,Ciencias,3,Masculino,87,3,3,Ejecutivo Ventas,4,Soltero,7428,14506,2,No,12,3,1,12,3,3,5,3,1,3
+36,No,Viaje_Frecuente,1467,Ventas,11,2,Diploma Tecnico,2,Femenino,92,3,3,Ejecutivo Ventas,4,Casado,9738,22952,0,No,14,3,3,10,6,3,9,7,2,8
+33,No,NoFrecuente,750,Ventas,22,2,Marketing,3,Masculino,95,3,2,Ejecutivo Ventas,2,Casado,6146,15480,0,No,13,3,1,8,2,4,7,7,0,7
+31,Si,Poco_Frecuente,249,Ventas,6,4,Ciencias,2,Masculino,76,1,2,Ejecutivo Ventas,3,Casado,6172,20739,4,Si,18,3,2,12,3,2,7,7,7,7
+50,No,Viaje_Frecuente,809,Ventas,12,3,Marketing,3,Femenino,77,3,3,Ejecutivo Ventas,4,Soltero,9208,6645,4,No,11,3,4,16,3,3,2,2,2,1
+31,Si,Poco_Frecuente,542,Ventas,20,3,Ciencias,2,Femenino,71,1,2,Ejecutivo Ventas,3,Casado,4559,24788,3,Si,11,3,3,4,2,3,2,2,2,2
+41,No,Poco_Frecuente,802,Ventas,9,1,Ciencias,3,Masculino,96,3,3,Ejecutivo Ventas,3,Divorciado,8189,21196,3,Si,13,3,3,12,2,3,9,7,0,7
+39,No,Poco_Frecuente,1329,Ventas,4,4,Ciencias,4,Femenino,47,2,2,Ejecutivo Ventas,3,Casado,5902,14590,4,No,14,3,3,17,1,4,15,11,5,9
+25,No,Poco_Frecuente,959,Ventas,28,3,Ciencias,1,Masculino,41,2,2,Ejecutivo Ventas,3,Casado,8639,24835,2,No,18,3,4,6,3,3,2,2,2,2
+32,No,Viaje_Frecuente,689,Ventas,9,2,Medicina,4,Masculino,35,1,2,Ejecutivo Ventas,4,Divorciado,4668,22812,0,No,17,3,4,9,2,4,8,7,0,7
+35,No,Poco_Frecuente,662,Ventas,1,5,Marketing,3,Masculino,94,3,3,Ejecutivo Ventas,2,Casado,7295,11439,1,No,13,3,1,10,3,3,10,8,0,6
+32,No,Viaje_Frecuente,967,Ventas,8,3,Marketing,2,Femenino,43,3,3,Ejecutivo Ventas,4,Soltero,8998,15589,1,No,14,3,4,9,2,3,9,8,3,7
+40,No,Poco_Frecuente,630,Ventas,4,4,Marketing,3,Masculino,67,2,3,Ejecutivo Ventas,4,Casado,10855,8552,7,No,11,3,1,15,2,2,12,11,2,11
+30,No,Poco_Frecuente,1339,Ventas,5,3,Ciencias,2,Femenino,41,3,3,Ejecutivo Ventas,4,Casado,9419,8053,2,No,12,3,3,12,2,3,10,9,7,4
+38,No,Poco_Frecuente,702,Ventas,1,4,Ciencias,1,Femenino,59,2,2,Ejecutivo Ventas,4,Soltero,8686,12930,4,No,22,4,3,12,2,4,8,3,0,7
+45,No,Poco_Frecuente,1268,Ventas,4,2,Ciencias,3,Femenino,30,3,2,Ejecutivo Ventas,1,Divorciado,5006,6319,4,Si,11,3,1,9,3,4,5,4,0,3
+46,No,Poco_Frecuente,526,Ventas,1,2,Marketing,2,Femenino,92,3,3,Ejecutivo Ventas,1,Divorciado,10453,2137,1,No,25,4,3,24,2,3,24,13,15,7
+49,No,Viaje_Frecuente,279,Investigacion & Desarrollo,8,1,Ciencias,3,Masculino,61,2,2,Investigador,2,Casado,5130,24907,1,No,23,4,4,10,3,3,10,7,1,7
+33,No,Viaje_Frecuente,1392,Investigacion & Desarrollo,3,4,Ciencias,4,Femenino,56,3,1,Investigador,3,Casado,2909,23159,1,Si,11,3,3,8,3,3,8,7,3,0
+31,No,Poco_Frecuente,670,Investigacion & Desarrollo,26,1,Ciencias,1,Masculino,31,3,1,Investigador,3,Divorciado,2911,15170,1,No,17,3,4,5,1,2,5,2,4,3
+32,No,Poco_Frecuente,334,Investigacion & Desarrollo,5,2,Ciencias,1,Masculino,80,4,1,Investigador,2,Divorciado,3298,15053,0,Si,12,3,4,7,5,2,6,2,0,5
+38,No,Poco_Frecuente,371,Investigacion & Desarrollo,2,3,Ciencias,4,Masculino,45,3,1,Investigador,4,Soltero,3944,4306,5,Si,11,3,3,6,3,3,3,2,1,2
+21,No,Poco_Frecuente,391,Investigacion & Desarrollo,15,2,Ciencias,3,Masculino,96,3,1,Investigador,4,Soltero,1232,19281,1,No,14,3,4,0,6,3,0,0,0,0
+34,Si,Poco_Frecuente,699,Investigacion & Desarrollo,6,1,Medicina,2,Masculino,83,3,1,Investigador,1,Soltero,2960,17102,2,No,11,3,3,8,2,3,4,2,1,3
+32,Si,Viaje_Frecuente,1125,Investigacion & Desarrollo,16,1,Ciencias,2,Femenino,72,1,1,Investigador,1,Soltero,3919,4681,1,Si,22,4,2,10,5,3,10,2,6,7
+24,Si,Poco_Frecuente,813,Investigacion & Desarrollo,1,3,Medicina,2,Masculino,61,3,1,Investigador,4,Casado,2293,3020,2,Si,16,3,1,6,2,2,2,0,2,0
+43,No,Poco_Frecuente,1273,Investigacion & Desarrollo,2,2,Medicina,4,Femenino,72,4,1,Investigador,3,Divorciado,2645,21923,1,No,12,3,4,6,3,2,5,3,1,4
+53,No,Poco_Frecuente,1219,Ventas,2,4,Ciencias,1,Femenino,78,2,4,Jefe,4,Casado,15427,22021,2,No,16,3,3,31,3,3,25,8,3,7
+46,No,Poco_Frecuente,705,Ventas,2,4,Marketing,2,Femenino,83,3,5,Jefe,1,Soltero,18947,22822,3,No,12,3,4,22,2,2,2,2,2,1
+43,No,Viaje_Frecuente,394,Ventas,26,2,Ciencias,3,Masculino,92,3,4,Jefe,4,Casado,16959,19494,1,Si,12,3,4,25,3,4,25,12,4,12
+53,No,Poco_Frecuente,1282,Investigacion & Desarrollo,5,3,Otro,3,Femenino,58,3,5,Jefe Area,3,Divorciado,19094,10735,4,No,11,3,4,26,3,2,14,13,4,8
+55,No,Poco_Frecuente,836,Investigacion & Desarrollo,8,3,Medicina,4,Femenino,33,3,4,Jefe Area,3,Divorciado,14756,19730,2,Si,14,3,3,21,2,3,5,0,0,2
+34,No,Poco_Frecuente,1354,Investigacion & Desarrollo,5,3,Medicina,3,Femenino,45,2,3,Jefe Area,1,Soltero,11631,5615,2,No,12,3,4,14,6,3,11,10,5,8
+41,No,Viaje_Frecuente,857,Investigacion & Desarrollo,10,3,Ciencias,4,Masculino,91,2,4,Jefe Area,1,Divorciado,17181,12888,4,No,13,3,2,21,2,2,7,6,7,7
+50,No,Poco_Frecuente,1452,Investigacion & Desarrollo,11,3,Ciencias,3,Femenino,53,3,5,Jefe Area,2,Soltero,19926,17053,3,No,15,3,2,21,5,3,5,4,4,4
+40,No,Poco_Frecuente,989,Investigacion & Desarrollo,4,1,Medicina,4,Femenino,46,3,5,Jefe Area,3,Casado,19033,6499,1,No,14,3,2,21,2,3,20,8,9,9
+52,No,Poco_Frecuente,699,Investigacion & Desarrollo,1,4,Ciencias,3,Masculino,65,2,5,Jefe Area,3,Casado,19999,5678,0,No,14,3,1,34,5,3,33,18,11,9
+45,No,NoFrecuente,1195,Investigacion & Desarrollo,2,2,Medicina,1,Masculino,65,2,4,Jefe Area,4,Casado,16792,20462,9,No,23,4,4,22,1,3,20,8,11,8
+48,Si,Poco_Frecuente,626,Recursos Humanos,1,2,Ciencias,1,Masculino,98,2,3,Jefe RRHH,3,Soltero,5381,19294,9,Si,13,3,4,23,2,3,1,0,0,0
+59,No,NoFrecuente,1420,Recursos Humanos,2,4,Recursos Humanos,3,Femenino,32,2,5,Jefe RRHH,4,Casado,18844,21922,9,No,21,4,4,30,3,3,3,2,2,2
+54,No,NoFrecuente,142,Recursos Humanos,26,3,Recursos Humanos,4,Femenino,30,4,4,Jefe RRHH,4,Soltero,17328,13871,2,Si,12,3,3,23,3,3,5,3,4,4
+28,Si,Poco_Frecuente,1434,Manufacturacion,5,4,Diploma Tecnico,3,Masculino,50,3,1,Manufacturador,3,Soltero,3441,11179,1,Si,13,3,3,2,3,2,2,2,2,2
+35,No,Poco_Frecuente,1142,Manufacturacion,23,4,Diploma Tecnico,3,Femenino,30,3,1,Manufacturador,1,Casado,4014,16002,3,Si,15,3,3,4,3,3,2,2,2,2
+31,No,Poco_Frecuente,655,Manufacturacion,7,4,Diploma Tecnico,4,Masculino,48,3,2,Manufacturador,4,Divorciado,5915,9528,3,No,22,4,4,10,3,2,7,7,1,7
+38,No,Viaje_Frecuente,653,Manufacturacion,29,5,Diploma Tecnico,4,Femenino,50,3,2,Manufacturador,4,Soltero,2406,5456,1,No,11,3,4,10,2,3,10,3,9,9
+36,No,Poco_Frecuente,132,Manufacturacion,6,3,Diploma Tecnico,2,Femenino,55,4,1,Manufacturador,4,Casado,3038,22002,3,No,12,3,2,5,3,3,1,0,0,0
+30,No,Poco_Frecuente,852,Manufacturacion,1,1,Diploma Tecnico,4,Masculino,55,2,2,Manufacturador,4,Casado,5126,15998,1,Si,12,3,3,10,1,2,10,8,3,0
+51,No,Poco_Frecuente,432,Manufacturacion,9,4,Diploma Tecnico,4,Masculino,96,3,1,Manufacturador,4,Casado,2075,18725,3,No,23,4,2,10,4,3,4,2,0,3
+44,No,NoFrecuente,489,Manufacturacion,23,3,Diploma Tecnico,2,Masculino,67,3,2,Manufacturador,2,Casado,2042,25043,4,No,12,3,3,17,3,4,3,2,1,2
+20,Si,Viaje_Frecuente,871,Manufacturacion,6,3,Diploma Tecnico,4,Femenino,66,2,1,Manufacturador,4,Soltero,2926,19783,1,Si,18,3,2,1,5,3,1,0,1,0
+22,No,Poco_Frecuente,534,Manufacturacion,15,3,Diploma Tecnico,2,Femenino,59,3,1,Manufacturador,4,Soltero,2871,23785,1,No,15,3,3,1,5,3,0,0,0,0
+34,Si,Viaje_Frecuente,658,Manufacturacion,7,3,Diploma Tecnico,1,Masculino,66,1,2,Manufacturador,3,Soltero,6074,22887,1,Si,24,4,4,9,3,3,9,7,0,6
+24,No,Poco_Frecuente,1127,Manufacturacion,18,1,Diploma Tecnico,2,Masculino,52,3,1,Manufacturador,3,Casado,2774,13257,0,No,12,3,3,6,2,3,5,3,1,2
+36,No,Poco_Frecuente,922,Manufacturacion,3,2,Diploma Tecnico,1,Femenino,39,3,1,Manufacturador,4,Divorciado,2835,2561,5,No,22,4,1,7,2,3,1,0,0,0
+22,No,Poco_Frecuente,594,Manufacturacion,2,1,Diploma Tecnico,3,Masculino,100,3,1,Manufacturador,4,Casado,2523,19299,0,No,14,3,3,3,2,3,2,1,2,1
+32,Si,Poco_Frecuente,1033,Manufacturacion,9,3,Diploma Tecnico,1,Femenino,41,3,1,Manufacturador,1,Soltero,4200,10224,7,No,22,4,1,10,2,4,5,4,0,4
+30,No,Poco_Frecuente,1427,Manufacturacion,2,1,Diploma Tecnico,2,Masculino,35,2,1,Manufacturador,4,Soltero,2720,11162,0,No,13,3,4,6,3,3,5,3,1,2
+41,No,Poco_Frecuente,933,Manufacturacion,9,4,Diploma Tecnico,3,Masculino,94,3,1,Manufacturador,1,Casado,2238,6961,2,No,21,4,4,7,2,3,5,0,1,4
+19,No,Poco_Frecuente,1181,Manufacturacion,3,1,Diploma Tecnico,2,Femenino,79,3,1,Manufacturador,2,Soltero,1483,16102,1,No,14,3,4,1,3,3,1,0,0,0
+45,No,Poco_Frecuente,194,Manufacturacion,9,3,Diploma Tecnico,2,Masculino,60,3,2,Manufacturador,2,Divorciado,2348,10901,8,No,18,3,3,20,2,1,17,9,0,15
+36,No,Viaje_Frecuente,1480,Manufacturacion,3,2,Diploma Tecnico,4,Masculino,30,3,1,Manufacturador,2,Soltero,2088,15062,4,No,12,3,3,13,3,2,8,7,7,2
+30,No,NoFrecuente,111,Manufacturacion,9,3,Diploma Tecnico,3,Masculino,66,3,2,Manufacturador,1,Divorciado,3072,11012,1,No,11,3,3,12,4,3,12,9,6,10
+19,Si,Poco_Frecuente,303,Manufacturacion,2,3,Diploma Tecnico,2,Masculino,47,2,1,Manufacturador,4,Soltero,1102,9241,1,No,22,4,3,1,3,2,1,0,1,0
+38,No,Poco_Frecuente,1380,Manufacturacion,9,2,Diploma Tecnico,3,Femenino,75,3,1,Manufacturador,4,Soltero,2288,6319,1,No,12,3,3,2,3,3,2,2,2,1
+50,No,Poco_Frecuente,328,Manufacturacion,1,3,Otro,3,Masculino,86,2,1,Manufacturador,3,Casado,3690,3425,2,No,15,3,4,5,2,2,3,2,0,2
+35,No,Viaje_Frecuente,138,Manufacturacion,2,3,Otro,2,Femenino,37,3,2,Manufacturador,2,Soltero,4425,15986,5,No,11,3,4,10,5,3,6,2,1,2
+49,No,Poco_Frecuente,470,Manufacturacion,20,4,Otro,3,Femenino,96,3,2,Manufacturador,1,Casado,6567,5549,1,No,14,3,3,16,2,2,15,11,5,11
+36,No,Poco_Frecuente,216,Manufacturacion,6,2,Otro,2,Masculino,84,3,2,Manufacturador,2,Divorciado,4941,2819,6,No,20,4,4,7,0,3,3,2,0,1
+51,Si,Viaje_Frecuente,1150,Manufacturacion,8,4,Otro,1,Masculino,53,1,3,Manufacturador,4,Soltero,10650,25150,2,No,15,3,4,18,2,3,4,2,0,3
+29,No,NoFrecuente,1496,Manufacturacion,1,1,Otro,4,Masculino,41,3,2,Manufacturador,3,Casado,4319,26283,1,No,13,3,1,10,1,3,10,7,0,9
+51,No,Poco_Frecuente,1169,Manufacturacion,7,4,Otro,2,Masculino,34,2,2,Manufacturador,3,Casado,6132,13983,2,No,17,3,3,10,2,3,1,0,0,0
+53,No,Poco_Frecuente,1084,Manufacturacion,13,2,Otro,4,Femenino,57,4,2,Manufacturador,1,Divorciado,4450,26250,1,No,11,3,3,5,3,3,4,2,1,3
+34,No,Viaje_Frecuente,1069,Manufacturacion,2,1,Otro,4,Masculino,45,2,2,Manufacturador,3,Casado,9547,14074,1,No,17,3,3,10,2,2,10,9,1,9
+35,Si,Poco_Frecuente,556,Manufacturacion,23,2,Otro,2,Masculino,50,2,2,Manufacturador,3,Casado,5916,15497,3,Si,13,3,1,8,1,3,1,0,0,1
+42,No,NoFrecuente,926,Manufacturacion,21,2,Otro,3,Femenino,36,3,2,Manufacturador,3,Divorciado,5265,16439,2,No,16,3,2,11,5,3,5,3,0,2
+34,No,Poco_Frecuente,419,Manufacturacion,7,4,Otro,1,Femenino,53,3,3,Manufacturador,2,Soltero,11994,21293,0,No,11,3,3,13,4,3,12,6,2,11
+41,Si,Poco_Frecuente,1360,Manufacturacion,12,3,Otro,2,Femenino,49,3,5,Manufacturador,3,Casado,19545,16280,1,No,12,3,4,23,0,3,22,15,15,8
+33,No,Viaje_Frecuente,515,Manufacturacion,1,2,Otro,1,Femenino,98,3,3,Manufacturador,4,Soltero,13458,15146,1,Si,12,3,3,15,1,3,15,14,8,12
+50,No,Poco_Frecuente,989,Manufacturacion,7,2,Otro,2,Femenino,43,2,5,Manufacturador,3,Divorciado,18740,16701,5,Si,12,3,4,29,2,2,27,3,13,8
+45,No,Poco_Frecuente,193,Manufacturacion,6,4,Otro,4,Masculino,52,3,3,Manufacturador,1,Casado,13245,15067,4,Si,14,3,2,17,3,4,0,0,0,0
+37,No,Poco_Frecuente,397,Manufacturacion,7,4,Otro,1,Masculino,30,3,3,Manufacturador,3,Soltero,13664,25258,4,No,13,3,1,16,3,4,5,2,0,2
+54,No,Poco_Frecuente,1217,Manufacturacion,2,4,Otro,1,Femenino,60,3,3,Manufacturador,3,Casado,13549,24001,9,No,12,3,1,16,5,1,4,3,0,3
+26,No,Poco_Frecuente,841,Manufacturacion,6,3,Otro,3,Femenino,46,2,1,Manufacturador,2,Casado,2368,23300,1,No,19,3,3,5,3,2,5,4,4,3
+43,No,Viaje_Frecuente,957,Manufacturacion,28,3,Otro,2,Femenino,72,4,1,Manufacturador,3,Soltero,4739,16090,4,No,12,3,4,18,2,3,3,2,1,2
+45,No,Poco_Frecuente,1316,Manufacturacion,29,3,Otro,3,Masculino,83,3,1,Manufacturador,4,Soltero,3452,9752,5,No,13,3,2,9,2,2,6,5,0,3
+38,No,Poco_Frecuente,364,Manufacturacion,3,5,Otro,4,Femenino,32,3,2,Manufacturador,3,Soltero,4317,2302,3,Si,20,4,2,19,2,3,3,2,2,2
+30,No,Poco_Frecuente,438,Manufacturacion,18,3,Otro,1,Femenino,75,3,1,Manufacturador,3,Soltero,2632,23910,1,No,14,3,3,5,4,2,5,4,0,4
+30,No,Poco_Frecuente,201,Manufacturacion,5,3,Otro,4,Femenino,84,3,1,Manufacturador,1,Divorciado,3204,10415,5,No,14,3,4,8,3,3,3,2,2,2
+40,No,Viaje_Frecuente,1395,Manufacturacion,26,3,Otro,2,Femenino,54,3,2,Manufacturador,2,Divorciado,5605,8504,1,No,11,3,1,20,2,3,20,7,2,13
+58,No,Poco_Frecuente,1145,Manufacturacion,9,3,Otro,2,Femenino,75,2,1,Manufacturador,2,Casado,3346,11873,4,Si,20,4,2,9,3,2,1,0,0,0
+22,No,Poco_Frecuente,1256,Manufacturacion,19,1,Otro,3,Masculino,80,3,1,Manufacturador,4,Casado,2323,11992,1,No,24,4,1,2,6,3,2,2,2,2
+27,No,NoFrecuente,691,Manufacturacion,9,3,Otro,4,Masculino,57,3,1,Manufacturador,2,Divorciado,2024,5970,6,No,18,3,4,6,1,1,2,2,2,2
+28,No,Poco_Frecuente,440,Manufacturacion,21,3,Otro,3,Masculino,42,3,1,Manufacturador,4,Casado,2713,6672,1,No,11,3,3,5,2,1,5,2,0,2
+27,No,NoFrecuente,1450,Manufacturacion,3,3,Otro,3,Masculino,79,2,1,Manufacturador,3,Divorciado,2566,25326,1,Si,15,3,4,1,2,2,1,1,0,1
+41,No,Poco_Frecuente,465,Manufacturacion,14,3,Otro,1,Masculino,56,3,1,Manufacturador,3,Divorciado,2451,4609,4,No,12,3,1,13,2,3,9,8,1,8
+32,No,Poco_Frecuente,120,Manufacturacion,6,5,Otro,3,Masculino,43,3,1,Manufacturador,3,Soltero,3038,12430,3,No,20,4,1,8,2,3,5,4,1,4
+27,No,Poco_Frecuente,1157,Manufacturacion,17,3,Otro,3,Masculino,51,3,1,Manufacturador,2,Casado,3058,13364,0,Si,16,3,4,6,3,2,5,2,1,1
+56,No,Poco_Frecuente,713,Manufacturacion,8,3,Otro,3,Femenino,67,3,1,Manufacturador,1,Divorciado,4257,13939,4,Si,18,3,3,19,3,3,2,2,2,2
+33,No,Poco_Frecuente,134,Manufacturacion,2,3,Otro,3,Masculino,90,3,1,Manufacturador,4,Soltero,2500,10515,0,No,14,3,1,4,2,4,3,1,0,2
+31,No,Poco_Frecuente,140,Manufacturacion,12,1,Otro,3,Femenino,95,3,1,Manufacturador,4,Casado,3929,6984,8,Si,23,4,3,7,0,3,4,2,0,2
+34,No,Poco_Frecuente,629,Manufacturacion,27,2,Otro,4,Femenino,95,3,1,Manufacturador,2,Soltero,2311,5711,2,No,15,3,4,9,3,3,3,2,1,2
+33,No,Poco_Frecuente,931,Manufacturacion,14,3,Otro,4,Femenino,72,3,1,Manufacturador,2,Casado,2756,4673,1,No,13,3,4,8,5,3,8,7,1,6
+27,No,Poco_Frecuente,894,Manufacturacion,9,3,Otro,4,Femenino,99,3,1,Manufacturador,2,Soltero,2279,11781,1,No,16,3,4,7,2,2,7,7,0,3
+43,No,NoFrecuente,1344,Manufacturacion,7,3,Otro,4,Masculino,37,4,1,Manufacturador,4,Divorciado,2089,5228,4,No,14,3,4,7,3,4,5,4,2,2
+37,No,Poco_Frecuente,290,Manufacturacion,21,3,Otro,2,Masculino,65,4,1,Manufacturador,1,Casado,3564,22977,1,Si,12,3,1,8,3,2,8,7,1,7
+28,Si,Poco_Frecuente,103,Recursos Humanos,24,3,Ciencias,3,Masculino,50,2,1,Marketing,3,Soltero,2028,12947,5,Si,14,3,2,6,4,3,4,2,0,3
+22,No,NoFrecuente,1123,Recursos Humanos,16,2,Medicina,4,Masculino,96,4,1,Marketing,4,Divorciado,2935,7324,1,Si,13,3,2,1,2,2,1,0,0,0
+33,No,Poco_Frecuente,924,Recursos Humanos,2,3,Medicina,3,Masculino,78,3,1,Marketing,4,Soltero,2496,6670,4,No,11,3,4,7,3,3,1,1,0,0
+30,No,Poco_Frecuente,125,Recursos Humanos,9,2,Medicina,4,Masculino,83,2,1,Marketing,3,Soltero,2206,16117,1,No,13,3,1,10,5,3,10,0,1,8
+35,No,Poco_Frecuente,464,Recursos Humanos,4,2,Otro,3,Masculino,75,3,1,Marketing,4,Divorciado,1951,10910,1,No,12,3,3,1,3,3,1,0,0,0
+27,No,Poco_Frecuente,1240,Recursos Humanos,2,4,Ciencias,4,Femenino,33,3,1,Marketing,1,Divorciado,2341,19715,1,No,13,3,4,1,6,3,1,0,0,0
+26,Si,Poco_Frecuente,1357,Recursos Humanos,25,3,Ciencias,1,Masculino,48,1,1,Marketing,3,Soltero,2293,10558,1,No,12,3,3,1,2,2,1,0,0,1
+30,No,Viaje_Frecuente,721,Recursos Humanos,1,2,Medicina,3,Femenino,58,3,2,Marketing,4,Soltero,4011,10781,1,No,23,4,4,12,2,3,12,8,3,7
+35,No,Poco_Frecuente,1229,Recursos Humanos,8,1,Ciencias,4,Masculino,36,4,1,Marketing,4,Casado,2269,4892,1,No,19,3,4,1,2,3,1,0,0,1
+46,No,Poco_Frecuente,945,Recursos Humanos,5,2,Medicina,2,Masculino,80,3,2,Recursos Humanos,2,Divorciado,5021,10425,8,Si,22,4,4,16,2,3,4,2,0,2
+37,Si,Poco_Frecuente,807,Recursos Humanos,6,4,Recursos Humanos,3,Masculino,63,3,1,Recursos Humanos,1,Divorciado,2073,23648,4,Si,22,4,4,7,3,3,3,2,0,2
+26,No,Poco_Frecuente,1355,Recursos Humanos,25,1,Ciencias,3,Femenino,61,3,1,Recursos Humanos,3,Casado,2942,8916,1,No,23,4,4,8,3,3,8,7,5,7
+30,No,Poco_Frecuente,1240,Recursos Humanos,9,3,Recursos Humanos,3,Masculino,48,3,2,Recursos Humanos,4,Casado,6347,13982,0,Si,19,3,4,12,2,1,11,9,4,7
+37,Si,Poco_Frecuente,1373,Recursos Humanos,2,2,Otro,4,Masculino,92,2,1,Recursos Humanos,3,Soltero,2090,2396,6,Si,15,3,2,7,3,3,0,0,0,0
+27,No,Poco_Frecuente,591,Recursos Humanos,2,1,Medicina,1,Masculino,40,3,1,Recursos Humanos,2,Casado,3468,16632,9,No,12,3,4,6,3,3,2,2,2,2
+32,No,Viaje_Frecuente,1005,Recursos Humanos,2,2,Ciencias,4,Masculino,79,3,1,Recursos Humanos,4,Soltero,3068,11864,0,No,13,3,3,8,2,2,7,7,3,6
+59,No,Poco_Frecuente,1324,Recursos Humanos,3,3,Medicina,3,Femenino,81,4,1,Recursos Humanos,1,Casado,2670,9964,4,Si,20,4,1,12,3,2,1,0,0,0
+30,No,Poco_Frecuente,1358,Recursos Humanos,24,1,Ciencias,4,Masculino,67,3,1,Recursos Humanos,3,Divorciado,2693,13335,1,No,22,4,2,1,2,3,1,0,0,0
+35,No,Poco_Frecuente,809,Recursos Humanos,16,3,Medicina,1,Masculino,84,4,1,Recursos Humanos,2,Casado,2426,16479,0,No,13,3,3,6,5,3,5,4,0,3
+29,No,Poco_Frecuente,153,Recursos Humanos,15,2,Ciencias,4,Femenino,49,2,2,Recursos Humanos,3,Soltero,4193,12682,0,Si,12,3,4,10,3,3,9,5,0,8
+34,No,Poco_Frecuente,1346,Recursos Humanos,19,2,Medicina,2,Masculino,93,3,1,Recursos Humanos,4,Divorciado,2661,8758,0,No,11,3,3,3,2,3,2,2,1,2
+36,No,Poco_Frecuente,1299,Manufacturacion,27,3,Medicina,3,Masculino,94,3,2,Representante Sanitario,3,Casado,5237,16577,6,No,13,3,2,17,3,2,7,7,7,7
+44,No,Poco_Frecuente,477,Manufacturacion,7,4,Medicina,1,Femenino,42,2,3,Representante Sanitario,4,Casado,10248,2094,3,No,14,3,4,24,4,3,22,6,5,17
+44,No,Poco_Frecuente,1459,Manufacturacion,10,4,Otro,4,Masculino,41,3,2,Representante Sanitario,4,Casado,6465,19121,2,Si,13,3,4,9,5,4,4,2,1,3
+35,No,NoFrecuente,1097,Manufacturacion,11,2,Medicina,3,Masculino,79,2,3,Representante Sanitario,1,Casado,9884,8302,2,Si,13,3,3,10,3,3,4,0,2,3
+36,No,Poco_Frecuente,1223,Manufacturacion,8,3,Diploma Tecnico,3,Femenino,59,3,3,Representante Sanitario,3,Divorciado,10096,8202,1,No,13,3,2,17,2,3,17,14,12,8
+30,No,Poco_Frecuente,288,Manufacturacion,2,3,Ciencias,3,Masculino,99,2,2,Representante Sanitario,4,Casado,4152,15830,1,No,19,3,1,11,3,3,11,10,10,8
+40,No,Viaje_Frecuente,530,Manufacturacion,1,4,Ciencias,3,Masculino,78,2,4,Representante Sanitario,2,Casado,13503,14115,1,No,22,4,4,22,3,2,22,3,11,11
+46,No,Viaje_Frecuente,638,Manufacturacion,1,3,Medicina,3,Masculino,40,2,3,Representante Sanitario,1,Casado,10673,3142,2,Si,13,3,3,21,5,2,10,9,9,5
+37,No,NoFrecuente,1040,Manufacturacion,2,2,Ciencias,3,Masculino,100,2,2,Representante Sanitario,4,Divorciado,5163,15850,5,No,14,3,4,17,2,4,1,0,0,0
+51,No,Viaje_Frecuente,1456,Manufacturacion,1,4,Medicina,1,Femenino,30,2,3,Representante Sanitario,1,Soltero,7484,25796,3,No,20,4,3,23,1,2,13,12,12,8
+58,Si,Poco_Frecuente,147,Manufacturacion,23,4,Medicina,4,Femenino,94,3,3,Representante Sanitario,4,Casado,10312,3465,1,No,12,3,4,40,3,2,40,10,15,6
+57,No,Poco_Frecuente,334,Manufacturacion,24,2,Ciencias,3,Masculino,83,4,3,Representante Sanitario,4,Divorciado,9439,23402,3,Si,16,3,2,12,2,1,5,3,1,4
+51,No,Poco_Frecuente,313,Manufacturacion,3,3,Medicina,4,Femenino,98,3,4,Representante Sanitario,2,Soltero,13734,7192,3,No,18,3,3,21,6,3,7,7,1,0
+36,Si,Poco_Frecuente,1218,Ventas,9,4,Ciencias,3,Masculino,82,2,1,Representante Ventas,1,Soltero,3407,6986,7,No,23,4,2,10,4,3,5,3,0,3
+39,Si,Poco_Frecuente,895,Ventas,5,3,Diploma Tecnico,4,Masculino,56,3,2,Representante Ventas,4,Casado,2086,3335,3,No,14,3,3,19,6,4,1,0,0,0
+50,Si,Poco_Frecuente,869,Ventas,3,2,Marketing,1,Masculino,86,2,1,Representante Ventas,3,Casado,2683,3810,1,Si,14,3,3,3,2,3,3,2,0,2
+35,No,Poco_Frecuente,890,Ventas,2,3,Marketing,4,Femenino,97,3,1,Representante Ventas,4,Casado,2014,9687,1,No,13,3,1,2,3,3,2,2,2,2
+23,No,Poco_Frecuente,541,Ventas,2,1,Diploma Tecnico,3,Masculino,62,3,1,Representante Ventas,1,Divorciado,2322,9518,3,No,13,3,3,3,3,3,0,0,0,0
+19,Si,Poco_Frecuente,528,Ventas,22,1,Marketing,4,Masculino,50,3,1,Representante Ventas,3,Soltero,1675,26820,1,Si,19,3,4,0,2,2,0,0,0,0
+53,No,Poco_Frecuente,1436,Ventas,6,2,Marketing,2,Masculino,34,3,2,Representante Ventas,3,Casado,2306,16047,2,Si,20,4,4,13,3,1,7,7,4,5
+34,No,Viaje_Frecuente,303,Ventas,2,4,Marketing,3,Femenino,75,3,1,Representante Ventas,3,Casado,2231,11314,6,No,18,3,4,6,3,3,4,3,1,2
+19,Si,Viaje_Frecuente,602,Ventas,1,1,Diploma Tecnico,3,Femenino,100,1,1,Representante Ventas,1,Soltero,2325,20989,0,No,21,4,1,1,5,4,0,0,0,0
+41,Si,Poco_Frecuente,1356,Ventas,20,2,Marketing,2,Femenino,70,3,1,Representante Ventas,2,Soltero,3140,21728,1,Si,22,4,4,4,5,2,4,3,0,2
+29,No,Poco_Frecuente,1328,Investigacion & Desarrollo,2,3,Ciencias,3,Masculino,76,3,1,Tecnico Informatica,2,Casado,2703,4956,0,No,23,4,4,6,3,3,5,4,0,4
+31,No,Poco_Frecuente,1082,Investigacion & Desarrollo,1,4,Medicina,3,Masculino,87,3,1,Tecnico Informatica,2,Soltero,2501,18775,1,No,17,3,2,1,4,3,1,1,1,0
+32,No,Poco_Frecuente,548,Investigacion & Desarrollo,1,3,Ciencias,2,Masculino,66,3,2,Tecnico Informatica,2,Casado,6220,7346,1,No,17,3,2,10,3,3,10,4,0,9
+35,No,Poco_Frecuente,1214,Investigacion & Desarrollo,1,3,Medicina,2,Masculino,30,2,1,Tecnico Informatica,3,Soltero,2859,26278,1,No,18,3,1,6,3,3,6,4,0,4
+38,No,NoFrecuente,573,Investigacion & Desarrollo,6,3,Medicina,2,Femenino,79,1,2,Tecnico Informatica,4,Divorciado,5329,15717,7,Si,12,3,4,17,3,3,13,11,1,9
+32,No,Poco_Frecuente,827,Investigacion & Desarrollo,1,1,Ciencias,4,Masculino,71,3,1,Tecnico Informatica,1,Soltero,2956,15178,1,No,13,3,4,1,2,3,1,0,0,0
+34,No,Poco_Frecuente,665,Investigacion & Desarrollo,6,4,Otro,1,Femenino,41,3,2,Tecnico Informatica,3,Soltero,4809,12482,1,No,14,3,3,16,3,3,16,13,2,10
+25,No,Poco_Frecuente,1280,Investigacion & Desarrollo,7,1,Medicina,4,Masculino,64,2,1,Tecnico Informatica,4,Casado,2889,26897,1,No,11,3,3,2,2,3,2,2,2,1
+34,No,Poco_Frecuente,1031,Investigacion & Desarrollo,6,4,Ciencias,3,Femenino,45,2,2,Tecnico Informatica,2,Divorciado,4505,15000,6,No,15,3,3,12,3,3,1,0,0,0
+30,No,Viaje_Frecuente,1312,Investigacion & Desarrollo,23,3,Ciencias,1,Masculino,96,1,1,Tecnico Informatica,3,Divorciado,2613,22310,1,No,25,4,3,10,2,2,10,7,0,9
+56,Si,Poco_Frecuente,441,Investigacion & Desarrollo,14,4,Ciencias,2,Femenino,72,3,1,Tecnico Informatica,2,Casado,4963,4510,9,Si,18,3,1,7,2,3,5,4,4,3
+36,No,Poco_Frecuente,852,Investigacion & Desarrollo,5,4,Ciencias,2,Femenino,82,2,1,Tecnico Laboratorio,1,Casado,3419,13072,9,Si,14,3,4,6,3,4,1,1,0,0
+37,No,Poco_Frecuente,408,Investigacion & Desarrollo,19,2,Ciencias,2,Masculino,73,3,1,Tecnico Laboratorio,2,Casado,3022,10227,4,No,21,4,1,8,1,3,1,0,0,0
+45,No,Poco_Frecuente,1339,Investigacion & Desarrollo,7,3,Ciencias,2,Masculino,59,3,3,Tecnico Laboratorio,1,Divorciado,9724,18787,2,No,17,3,3,25,2,3,1,0,0,0
+35,No,Viaje_Frecuente,664,Investigacion & Desarrollo,1,3,Medicina,2,Masculino,79,3,1,Tecnico Laboratorio,1,Casado,2194,5868,4,No,13,3,4,5,2,2,3,2,1,2
+36,Si,Poco_Frecuente,318,Investigacion & Desarrollo,9,3,Medicina,4,Masculino,79,2,1,Tecnico Laboratorio,3,Casado,3388,21777,0,Si,17,3,1,2,0,2,1,0,0,0
